@@ -14,3 +14,19 @@ button{
    font-family: "Vujahday Script", system-ui;
 
 }
+
+ .passo{
+     display: nome;
+ }
+
+  .passo.ativo{
+      display:block;
+  }
+
+  main{
+    text-align: center;
+    max-width: 90%;
+  }
+  img{
+    max-width:80% ;
+  }
